@@ -1,7 +1,4 @@
---Vou Comentar porque no Projeto eu olho o repositorio para me lembrar de comandos etc
---e tem uns comando que talvez no dia do projeto eu nao lembre.
---
--- Criação da tabela hotels
+-- Criação da tabela hotels isso me ajuda a lembrar por isso estou comentando bastante porque eu venho e olho no portifolio para lembrar.
 CREATE TABLE hotels (
     id INT AUTO_INCREMENT PRIMARY KEY, -- Coluna para o ID, auto incremento e chave primária
     name VARCHAR(80) NOT NULL, -- Nome do hotel, não pode ser nulo
